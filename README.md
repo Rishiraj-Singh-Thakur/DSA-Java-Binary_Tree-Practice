@@ -35,5 +35,4 @@ I created this repo to strengthen my understanding of **DSA**, especially **tree
 
 ## 🚀 How to Use
 1. Clone the repository  
-   ```bash
-   git clone <your-repo-link>
+   git clone <https://github.com/Rishiraj-Singh-Thakur/DSA-Java-Binary_Tree-Practice.git>
